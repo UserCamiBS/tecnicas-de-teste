@@ -25,7 +25,7 @@ Aplicada para dividir entradas em classes **válidas** e **inválidas**, reduzin
 Regras cobertas (exemplos):
 - RN01: valores entre **R$19,00 e R$99,00**
 - RN02: renovação de produtos com cadastro há **mais de 30 dias**
-- RN03: cadastro máximo de **100 itens por vez** :contentReference[oaicite:1]{index=1}
+- RN03: cadastro máximo de **100 itens por vez** 
 
 ---
 
@@ -34,7 +34,7 @@ Aplicada para validar o comportamento do sistema nos pontos críticos de borda.
 
 Cobertura de limites (exemplos):
 - RN01: **18,99 / 19,00 / 19,01** e **98,99 / 99,00 / 99,01**
-- RN03: **99 / 100 / 101 itens** :contentReference[oaicite:2]{index=2}
+- RN03: **99 / 100 / 101 itens** 
 
 ---
 
@@ -46,7 +46,7 @@ Condições avaliadas:
 - RN03: quantidade **<= 100**
 Ações esperadas:
 - Renovar?
-- Cadastrar? :contentReference[oaicite:3]{index=3}
+- Cadastrar? 
 
 ---
 
@@ -67,7 +67,7 @@ Fluxos definidos (exemplos):
 - Desativada → Ativa
 - (Ativa/Desativada) → Banida
 - Banida → (estado anterior) via recurso aceito
-- Banida → Banida (tentativa de login deve bloquear) :contentReference[oaicite:4]{index=4}
+- Banida → Banida (tentativa de login deve bloquear) 
 
 ---
 
