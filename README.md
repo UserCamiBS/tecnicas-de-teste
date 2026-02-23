@@ -1,6 +1,6 @@
 # 🧠 Técnicas de Teste | Cenários a partir de Regras de Negócio (EBAC)
 
-Projeto desenvolvido como parte do módulo **Técnicas de Testes** na formação de **Quality Assurance (QA)** da EBAC, com foco em transformar **regras de negócio** em **cenários de teste completos**, aplicando técnicas clássicas de testes de caixa-preta.
+Projeto desenvolvido como parte do módulo **Técnicas de Testes** na formação de **Qualidade de Software (QA) da EBAC.**, com foco em transformar **regras de negócio** em **cenários de teste completos**, aplicando técnicas clássicas de testes de caixa-preta.
 
 ---
 
